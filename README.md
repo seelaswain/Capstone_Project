@@ -1,9 +1,11 @@
-# Capstone_Project:-
-Introduction:- Identifying prospect customer is key to any business success. This prospect customers usually lie within the data.
+#Capstone_Project:-
+
+**Introduction:-**
+Identifying prospect customer is key to any business success. This prospect customers usually lie within the data.
 Companies are using datascience to study hidden patterns and churn out essential information.
 In the Capstone Starbucks project, I have tried to identify the target customers by plotting barcharts visualization.
 
-#Libraries:-
+**Libraries:-**
 
 pandas,
 numpy,
@@ -12,7 +14,7 @@ json,
 matplotlib,
 sklearn
 
-Datasets:-
+**Datasets:-**
 
 portfolio = pd.read_json('data/portfolio.json', orient='records', lines=True),
 
@@ -20,7 +22,7 @@ profile = pd.read_json('data/profile.json', orient='records', lines=True),
 
 transcript = pd.read_json('data/transcript.json', orient='records', lines=True)
 
-#Conclusion:-
+**Conclusion:-**
 
 Age group 45-65:- The key age group that Starbucks should focus is between 45-65, particularly age group between 50 to 60. The data shows maximum population for this age group. The reason of this could be stability in career or high disposable income or kind of loyal professional customer who drink only starbucks coffee. This is my personal experience, I have seen many professionals in wallstreets who drink only starbucks coffee everyday no other coffee brand.
 Age group 30-40 :- The lowest customer range for starbucks is between age group 30-40. This is little younger group than the above. May be this age group is not very much into cofee or may be going for a cheaper brand.
@@ -34,4 +36,4 @@ Spending:- Regarding spending, it is found that the femalepopulation spends more
 #Recommendations:-
 
 Age group 50-60 is Starbucks strong hold,especially female. Discount offers seems to attract customers more. The conversion rate of discount offer is 93% whereas conversion rate
-of discount offer is 69%
+of discount offer is 69%. Starbucks should keep focusing on this group.
