@@ -37,3 +37,5 @@ Spending:- Regarding spending, it is found that the femalepopulation spends more
 
 Age group 50-60 is Starbucks strong hold,especially female. Discount offers seems to attract customers more. The conversion rate of discount offer is 93% whereas conversion rate
 of discount offer is 69%. Starbucks should keep focusing on this group.
+
+Blog post :- https://swainseela.medium.com/capstone-starbucks-project-9c62035e570
